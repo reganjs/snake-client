@@ -1,12 +1,12 @@
 # Snake Client Project
 
-Snake game is a very popular video game. It is a video game concept where the player maneuvers a dot and grows it by ‘eating’ pieces of food. As it moves and eats, it grows and the growing snake becomes an obstacle to smooth maneuvers. 
+Snake game is a very popular video game. It is a video game concept where the player maneuvers a dot and grows it by ‘eating’ pieces of food. As it moves and eats, it grows and the growing snake becomes an obstacle you must also avoid. 
 
-The goal is to grow the snake to become as big as possible without bumping into the side walls, or bumping into itself, upon which it dies.
+The goal is to grow the snake to become as big as possible without bumping into the side walls, or bumping into itself. Upon bumping into yourself the game will restart.
 
 ***This is a multiplayer take on Snake*** 
 
-Before you can run this client, you will need to be running the server side which you can download and install from here. 
+Before you can run this client, you will need to be running the server side which you can download and install from here. Both clients must be open to play. 
 
 ## Final Product
 
@@ -26,10 +26,16 @@ node play.js
 ```
 
 ## Keyboard Controls: 
-  - `w` `a` `s` `d` move up, left, down, right
-  -  `→` `←` `↓` `↑` move right, left, down, up
-  - `g` say: "Hello! I am a snake"
-  - `t` say: "I'm enjoying playing snake instead of coding"
-  - `q` say: "My ultimate is charging! Wait... what ultimate? THIS IS SNAKE!"
-  - `f` say: "Use POWERUP: GROWTH!"
-  - `Ctrl` + `c` - exits the user from the game 
+
+#### Moving the snake
+ - `w` `a` `s` `d` move up, left, down, right
+ -  `→` `←` `↓` `↑` move right, left, down, up
+
+#### Chat controls
+ - `g` say: "Hello! I am a snake"
+ - `t` say: "I'm enjoying playing snake instead of coding"
+ - `q` say: "My ultimate is charging! Wait... what ultimate? THIS IS SNAKE!"
+ - `f` say: "Use POWERUP: GROWTH!"
+
+#### Exiting the game
+ - `Ctrl` + `c` - exits the user from the game 
