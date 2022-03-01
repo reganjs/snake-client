@@ -8,7 +8,7 @@ Before you can run this client, you will need to be running the server side whic
 
 ## Final Product
 
-!["screenshot description"](#)
+!["https://github.com/reganjs/snake-client/blob/main/Snake-Multiplayer-SC.jpg"](#)
 
 ## Getting Started
 
