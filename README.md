@@ -38,4 +38,4 @@ node play.js
  - `f` say: "Use POWERUP: GROWTH!"
 
 #### Exiting the game
- - `Ctrl` + `c` - exits the user from the game 
+ - `Ctrl` + `c` exits the user from the game 
