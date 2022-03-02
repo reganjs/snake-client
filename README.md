@@ -1,6 +1,6 @@
 # Snake Client Project
 
-Snake game is a very popular video game. It is a video game concept where the player maneuvers a dot and grows it by ‘eating’ pieces of food. As it moves and eats, it grows and the growing snake becomes an obstacle you must also avoid. 
+Snake game is a very popular video game genre. It is a video game concept where the player maneuvers a dot and grows it by ‘eating’ pieces of food. As it moves and eats, it grows and the growing snake becomes an obstacle you must avoid. 
 
 The goal is to grow the snake to become as big as possible without bumping into the side walls, or bumping into itself. Upon bumping into yourself the game will restart.
 
